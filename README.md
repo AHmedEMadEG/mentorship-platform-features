@@ -1,4 +1,4 @@
-# Mentorship Platform Features: Real-Time Communication, Events, and Session Booking
+# Mentorship Platform Features
 
 This repository showcases my work on **core interaction features of a mentorship platform**, including real-time messaging, event management, and mentor session booking.
 
