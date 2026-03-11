@@ -8,11 +8,15 @@ The implementation focuses on building scalable and responsive user experiences 
 
 ## Note on Repository Scope
 
-This repository is intended as a **code and architecture showcase**, focusing on how key features are structured and implemented rather than providing a fully runnable application.
+This repository is intended as a **code and architecture showcase** for recruiters and engineers reviewing my work.
 
-The code included here highlights the core logic, patterns, and components used to implement the feature within a larger production SaaS platform. Because of this, the repository may not run out-of-the-box if cloned, and certain dependencies, configurations, or integrations from the original application environment are intentionally omitted.
+The code shared here represents **selected frontend implementation patterns and architectural approaches** used while working on production systems. It has been **reviewed and adapted to ensure that no proprietary business logic, confidential data, or restricted assets are exposed**.
 
-A **runnable demo version** of these features is planned for a future update. This will include a simplified environment with minimal setup (such as a basic landing page, dummy authentication flow, and sample data) allowing the features to be explored and executed locally.
+The purpose of this repository is to demonstrate **engineering practices, code structure, and problem-solving approaches**, not to reproduce the original production application.
+
+Because the code was extracted from a larger system, the repository may not run out-of-the-box if cloned. Some environment configuration and integrations from the original application have been intentionally omitted.
+
+A **runnable demo version** with a simplified setup (including sample data and a minimal environment) is planned for a future update so the feature can be explored locally.
 
 ---
 
